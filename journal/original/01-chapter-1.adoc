@@ -11,11 +11,19 @@ ____
 
 == Chapter I
 
-Birth--Education--Early Conviction--Marriage--Becomes convinced of the
-Principles of Friends--A meeting settled--Meetings generally held in silence--Many
-convinced--Call to the Ministry--Visit to Scotland.
+[.chapter-synopsis]
+* Birth
+* Education
+* Early Conviction
+* Marriage
+* Becomes convinced of the Principles of Friends
+* A meeting settled
+* Meetings generally held in silence
+* Many convinced
+* Call to the Ministry
+* Visit to Scotland
 
-I WAS born at Righead, in the parish of Kirklinton, in Cumberland,
+I was born at Righead, in the parish of Kirklinton, in Cumberland,
 about six miles from Carlisle, and nearly as much from Scotland,
 in the beginning of the fourth month, 1648.
 My father`'s name was Thomas Story, a younger brother of the family of the Story`'s,
@@ -159,7 +167,7 @@ though I frequently went; so I resolved for the time to come,
 I would go to church with the first, and hear and observe every word the priest said;
 but I saw all that I could do, signified little: and I was not to sing,
 neither durst I open my mouth as others did, but sat solitarily.
-Then the Lord showed me the effects of the priest+++[++++++[+++__ddelink__48508_2485813254]]s`'
+Then the Lord showed me the effects of the priests`'
 ministry.
 They could tell what sin was, and what would be the reward of the righteous;
 and what would be the reward of the wicked; but how to come out of sin,
@@ -223,7 +231,7 @@ but when he perceived I was dissatisfied with the priests and their doctrine,
 he went away home, and brought me a little book written by Francis Howgill,
 the title of which was "`Mystery, Babylon, the Mother of Harlots.`"
 The reading of this, satisfied me much, and drew me nearer in my mind to Friends;
-and I began to say to him+++[++++++[+++__ddelink__48510_2485813254]]
+and I began to say to him
 "`Dost thou think if I should invite your friends to my house, they would come with me?`"
 He answered, "`If I did so, I would do well; and further added,
 that they who gave but a cup of cold water in the name of a disciple,

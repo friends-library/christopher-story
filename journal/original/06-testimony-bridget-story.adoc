@@ -1,3 +1,4 @@
+[#wife, short="The Testimony of Bridget Story"]
 == The Testimony of Bridget Story, concerning her deceased husband, Christopher Story.
 
 The Lord, who is the giver of all good gifts,
@@ -66,4 +67,5 @@ and his remains were buried the 8th day of the same,
 at Friends`' burying-place at Hetherside,
 being accompanied thither by a very great number of Friends and others.
 
+[.signed-section-signature]
 Bridget Story.

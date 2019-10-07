@@ -1,11 +1,16 @@
 == Chapter III.
 
+[.chapter-subtitle--blurb]
 1687--1699.
 
-Visit to Friends in Ireland and in several parts of England--Some occurrences
-in his own county (Cumberland)--Journey to Scotland--Ill treatment at Glasgow--Visit
-to Friends in the Western and Southern parts of England--Further services;
-much of which not particularly noticed--An Epistle to Friends.
+[.chapter-synopsis]
+* Visit to Friends in Ireland and in several parts of England
+* Some occurrences in his own county (Cumberland)
+* Journey to Scotland
+* Ill treatment at Glasgow
+* Visit to Friends in the Western and Southern parts of England
+* Further services; much of which not particularly noticed
+* An Epistle to Friends
 
 In the year 1687, I travelled into Ireland to visit Friends;
 it was in the beginning of the troubles that happened in King James`'s reign;
@@ -126,6 +131,10 @@ We went that night to Hugh Wood`'s of Hamilton with
 a great deal of peace and comfort in our own particulars.
 There we wrote the following account:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 A Looking-Glass for the Inhabitants of the Town of Glasgow.
 
 We Christopher Story and Thomas Blair,
@@ -211,9 +220,13 @@ lest a worse thing befal them.
 For a confirmation of this testimony, we subscribe our names,
 and appeal to all sober persons that beheld it.
 
+[.signed-section-signature]
 Christopher Story, Thomas Blair.
 
+[.signed-section-context-close]
 The 4th day of the 4th month, 1691.
+
+--
 
 About a week after, Robert Barrow and John Thompson of Westmoreland came there,
 and they abused them, and endeavoured to set a mastiff dog upon them.
@@ -304,8 +317,13 @@ and as the brethren`'s care had been that Friends in that country should not suf
 their care increased until plenty came.
 About this time I wrote the following epistle to Friends.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 An Epistle of love and advice to the people of the Lord everywhere.
 
+[.salutation]
 Dear Friends,
 
 Who are broken off from the wild olive, and grafted into the heavenly vine,
@@ -426,8 +444,8 @@ ye did it not to me.
 And these shall go away into everlasting punishment:
 but the righteous into life eternal.`"
 Oh! therefore, that none may rest satisfied in feeding, clothing,
-and taking care of themselves n sickness,
-+++[++++++[+++__ddelink__3548_1081059228]]etc. supposing to lay up durable riches,
+and taking care of themselves n sickness, etc.
+supposing to lay up durable riches,
 and yet be unmindful of the poor, the widow, and the fatherless;
 such will do well to make a narrow search,
 and consider whether they are come to that religion which is pure and undefiled, that is,
@@ -570,11 +588,16 @@ to praise and magnify the worthy name of the Lord God, and the Lamb,
 that sits upon the throne, forever and ever.
 Amen.
 
+[.signed-section-closing]
 By a lover of truth and righteousness,
 
-Christopher Story.
+[.signed-section-signature]
+Christopher Story
 
+[.signed-section-context-close]
 Righead in Cumberland, the 5th of the 11th month, 1699.
+
+--
 
 The number of Friends increasing, many being convinced, and Friends children growing up,
 our meeting-house at Sikeside was too little to contain us, and in the aforesaid year,

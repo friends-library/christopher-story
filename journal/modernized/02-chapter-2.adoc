@@ -1,10 +1,15 @@
-== CHAPTER II.
+== Chapter II.
 
+[.chapter-subtitle--blurb]
 1678--1687.
 
-Return from Scotland--Religious Service in part of Yorkshire,
-etc.--Visit to George Fox--Attends the Yearly Meeting
-in London--A time of Persecution--Much Convincement.
+[.chapter-synopsis]
+* Return from Scotland
+* Religious Service in part of Yorkshire, etc.
+* Visit to George Fox
+* Attends the Yearly Meeting in London
+* A time of Persecution
+* Much Convincement
 
 Having visited Friends in the north, where there was great openness,
 several were convinced, and some among themselves livingly opened by way of testimony,
@@ -39,7 +44,7 @@ began to fear he had something against me,
 for I perceived by his own words he was come on foot six miles;
 and he said he had not done the like for several years.
 Concluding in my mind he was not come for nothing, I resolved,
-whatever he had tn say to me, I would take it well,
+whatever he had to say to me, I would take it well,
 and withal I thought I would say but little if I could help it.
 The meeting being gathered, after some time I could not easily forbear,
 but I must say what opened upon my mind, in the spring of love, and after I had done,

@@ -1,12 +1,15 @@
 == Chapter IV.
 
+[.chapter-subtitle--blurb]
 1701--1730.
 
-Passes through part of Scotland into Ireland--Visits
-most of the Meetings of Friends in that Nation,
-and returns.--Disturbance of a Meeting in the Parish of Canonsby,
-in Scotland--Letter on that subject.--Termination of the Author`'s own Narrative.--Supplement,
-briefly noticing his various further Services, his last illness, and his decease.
+[.chapter-synopsis]
+* Passes through part of Scotland into Ireland
+* Visits most of the Meetings of Friends in that Nation, and returns.
+* Disturbance of a Meeting in the Parish of Canonsby, in Scotland
+* Letter on that subject.
+* Termination of the Author`'s own Narrative.
+* Supplement, briefly noticing his various further Services, his last illness, and his decease
 
 In the year 1701, I had it in my mind to visit Friends in Ireland;
 and when the time came I concluded to go,
@@ -21,8 +24,13 @@ to be spread abroad in that nation, we dispersed them all along, as we had oppor
 till we came to Port Patrick, which was about eighty miles;
 as the following letter will give a relation.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From Christopher Story to Gilbert Molleson
 
+[.salutation]
 Loving Friend, Gilbert Molleson:
 
 The salutation of dear love reacheth to thee over sea and land,
@@ -107,11 +115,16 @@ for the north, and we were glad to see Friends generally together.
 With my dear love once more to thee and faithful Friends,
 as also to Friends that come from Cumberland to the Yearly Meeting, I bid thee farewell.
 
+[.signed-section-closing]
 From thy Friend,
 
-Christopher Story.
+[.signed-section-signature]
+Christopher Story
 
+[.signed-section-context-close]
 Lurgan, in Ireland, the 21st of the 3d month, 1701.
+
+--
 
 At the Province Meeting, which was both a large and good meeting,
 accounts were brought in from the particular meetings,
@@ -173,8 +186,13 @@ were the cause of this great abuse we received,
 I had it in my mind to write a letter to the said priest,
 which was delivered into his hand by two Friends, and is as followeth:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Christopher Story to James Armstrong
 
+[.salutation]
 To James Armstrong, priest of Canonsby, and the rest of his brethren.
 
 Upon the 4th of the sixth month last,
@@ -313,9 +331,13 @@ A few lines from thee is desired,
 hoping thou wilt be charitable for the future concerning us.
 To love enemies is an incumbent duty; and here we desire to remain.
 
+[.signed-section-closing]
 By a lover of truth and righteousness,
 
-Christopher Story.
+[.signed-section-signature]
+Christopher Story
+
+--
 
 The 26th of the sixth month, 1701, the foregoing paper was read publicly amongst them,
 in the hearing of many, as I am informed, and after divers consultations about it,
@@ -325,4 +347,8 @@ Some time after, we had a meeting at the same place, and no disturbance;
 they used their endeavours privately to persuade the people not to come to the meeting,
 but as to words or writing were pretty quiet.
 
+[.small-break]
+'''
+
+[.centered]
 The End of the Author`'s Narrative.

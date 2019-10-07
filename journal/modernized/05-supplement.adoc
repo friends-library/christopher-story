@@ -67,13 +67,16 @@ in living testimonies to his truth and way of life,
 and salvation by Christ our Savior; through whom to God the Father of all,
 be attributed and ascribed all dominion and praise, as alone worthy now and forever.
 
+[.signed-section-signature]
 Robert Latimer.
 
-Several letters of Christopher Story to his wife;
-written in his absence from home on Truth`'s service.
+[.blurb]
+=== Several letters of Christopher Story to his wife; written in his absence from home on Truth`'s service.
 
+[.signed-section-context-open]
 Edinburgh, the 13th of the 10th month, 1680.
 
+[.salutation]
 Dear Wife,
 
 My love in that which is unchangeable is unto you and my dear children,
@@ -125,15 +128,16 @@ and a good example to the rest of the children;
 and if it please God that I may return in safety,
 it will be my care to reward according to their doings.
 
+[.signed-section-closing]
 This being the most at present from your ever loving husband,
 
+[.signed-section-signature]
 Christopher Story.
 
-[.asterism]
-'''
-
+[.signed-section-context-open]
 Bristol, the 30th of the 9th month, 1689.
 
+[.salutation]
 Dear and loving Wife,
 
 In that love and life which is stronger than death,
@@ -179,15 +183,16 @@ and to my neigh hours and relations, as though named, who desire to hear from me
 not forgetting once more my duty to my father and mother, love to yourself,
 and all our dear children.
 
+[.signed-section-closing]
 The Lord be with you all, says my soul, Amen.
 
-Christopher Story.
+[.signed-section-signature]
+Christopher Story
 
-[.asterism]
-'''
-
+[.signed-section-context-open]
 Newcastle, the 11th of the 9th month, 1692.
 
+[.salutation]
 Dear and loving Wife,
 
 This comes to acquaint you, I am very well, blessed be the Lord;
@@ -262,6 +267,8 @@ but desire to have my very dear love remembered to my father and mother,
 and all my dear children as if named, and love to all Friends that may inquire after me.
 I rest your ever loving husband,
 
-Christopher Story.
+[.signed-section-signature]
+Christopher Story
 
+[.the-end]
 The End.
